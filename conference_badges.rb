@@ -12,6 +12,6 @@ def assign_rooms(array)
   room_num = 0
   array.map do |n|
     room_num += 1
-    "Hello, my name is #{n}. You are in room #{room_num} "
+    "Hello, #{n}. You'll be assigned to room #{room_num}! "
   end
 end
