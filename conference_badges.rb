@@ -8,7 +8,7 @@ def batch_badge_creator(name)
   end
 end
 
-def assign_rooms(name)
+def assign_rooms(array)
   room_num = 0
   array.map do |n|
     room_num += 1
