@@ -22,5 +22,4 @@ def printer(array)
       room_num += 1
       puts "Hello, #{n}! You'll be assigned to room #{room_num}!"
     end
-  end
 end
