@@ -6,3 +6,4 @@ def batch_badge_creator(name)
   arr = []
   badge = "Hello, my name is #{name}."
   arr << badge
+end
